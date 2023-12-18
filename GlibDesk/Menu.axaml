@@ -1,0 +1,35 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="GlibDesk.Menu"
+        Title="Menu"
+        Icon="/Assets/logo.png">
+    <Grid ShowGridLines="True" Background="Black">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/> 
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>   
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0" Grid.Row="0">
+            <Image Source="Assets/logo.png" MinWidth="100" MaxWidth="130" HorizontalAlignment="Left"/>
+        </StackPanel>
+        <StackPanel Grid.Row="0" Grid.Column="1" Orientation="Vertical" VerticalAlignment="Center">
+            <TextBlock Text="Zmodo" Foreground="DarkRed" FontSize="55" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        </StackPanel>
+        <StackPanel Grid.Column="2" Grid.Row="0">
+            <Button Background="DarkGray" BorderBrush="DarkRed" Content="Выйти из аккаунта" HorizontalAlignment="Right" Click="Logoff"/>
+        </StackPanel>
+        <StackPanel Grid.Column="1" Grid.Row="1">
+            <Button Background="DarkGray" BorderBrush="DarkRed" Content="Просмотр игр" HorizontalAlignment="Right" Click="Prosmotr_Igr"/>
+            <Button Background="DarkGray" BorderBrush="DarkRed" Content="Просмотр пользователей" HorizontalAlignment="Right" Click="Prosmotr_polzakov"/>
+            <Button Background="DarkGray" BorderBrush="DarkRed" Content="Выйти из аккаунта" HorizontalAlignment="Right" Click="Button_OnClick"/>
+        </StackPanel>
+    </Grid>
+</Window>
