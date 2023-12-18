@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zsAn6ekuitXrvAzv2vEZMCKjDZBl38U6NZ6MpgL0x3Btt6Bni+dYVfflCtbf1PiHUmfRUbLAQzWjwQ4fAhlt8Q==",
+  "dgSpecHash": "FKIPvAsfCKGO9+lfiN8zC7o8V4sqwjN9d5gQoP3L9fNkYLwdocYnn6tpMkDo20Eu9Z3spcFtWGK5a0Jv6BP1DA==",
   "success": true,
-  "projectFilePath": "E:\\RiderProj\\GlibDesk\\GlibDesk\\GlibDesk.csproj",
+  "projectFilePath": "C:\\Users\\Zumbrello\\Downloads\\Telegram Desktop\\GLibDesk-main\\GlibDesk\\GlibDesk.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zumbrello\\.nuget\\packages\\avalonia\\11.0.6\\avalonia.11.0.6.nupkg.sha512",
     "C:\\Users\\Zumbrello\\.nuget\\packages\\avalonia.angle.windows.natives\\2.1.0.2023020321\\avalonia.angle.windows.natives.2.1.0.2023020321.nupkg.sha512",
@@ -68,6 +68,7 @@
     "C:\\Users\\Zumbrello\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\Zumbrello\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\Zumbrello\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\Zumbrello\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\Zumbrello\\.nuget\\packages\\npgsql\\7.0.6\\npgsql.7.0.6.nupkg.sha512",
     "C:\\Users\\Zumbrello\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.11\\npgsql.entityframeworkcore.postgresql.7.0.11.nupkg.sha512",
     "C:\\Users\\Zumbrello\\.nuget\\packages\\skiasharp\\2.88.6\\skiasharp.2.88.6.nupkg.sha512",

@@ -3,8 +3,10 @@
   <component name="AvaloniaProject">
     <option name="projectPerEditor">
       <map>
+        <entry key="GlibDesk/AutorizationPage.axaml" value="GlibDesk/GlibDesk.csproj" />
         <entry key="GlibDesk/MainWindow.axaml" value="GlibDesk/GlibDesk.csproj" />
         <entry key="GlibDesk/Menu.axaml" value="GlibDesk/GlibDesk.csproj" />
+        <entry key="GlibDesk/Registration.axaml" value="GlibDesk/GlibDesk.csproj" />
       </map>
     </option>
   </component>

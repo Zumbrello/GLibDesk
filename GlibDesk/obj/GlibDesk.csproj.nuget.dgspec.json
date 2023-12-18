@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\RiderProj\\GlibDesk\\GlibDesk\\GlibDesk.csproj": {}
+    "C:\\Users\\Zumbrello\\Downloads\\Telegram Desktop\\GLibDesk-main\\GlibDesk\\GlibDesk.csproj": {}
   },
   "projects": {
-    "E:\\RiderProj\\GlibDesk\\GlibDesk\\GlibDesk.csproj": {
+    "C:\\Users\\Zumbrello\\Downloads\\Telegram Desktop\\GLibDesk-main\\GlibDesk\\GlibDesk.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\RiderProj\\GlibDesk\\GlibDesk\\GlibDesk.csproj",
+        "projectUniqueName": "C:\\Users\\Zumbrello\\Downloads\\Telegram Desktop\\GLibDesk-main\\GlibDesk\\GlibDesk.csproj",
         "projectName": "GlibDesk",
-        "projectPath": "E:\\RiderProj\\GlibDesk\\GlibDesk\\GlibDesk.csproj",
+        "projectPath": "C:\\Users\\Zumbrello\\Downloads\\Telegram Desktop\\GLibDesk-main\\GlibDesk\\GlibDesk.csproj",
         "packagesPath": "C:\\Users\\Zumbrello\\.nuget\\packages\\",
-        "outputPath": "E:\\RiderProj\\GlibDesk\\GlibDesk\\obj\\",
+        "outputPath": "C:\\Users\\Zumbrello\\Downloads\\Telegram Desktop\\GLibDesk-main\\GlibDesk\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zumbrello\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -105,6 +105,10 @@
             "Microsoft.IdentityModel.Tokens": {
               "target": "Package",
               "version": "[7.0.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",

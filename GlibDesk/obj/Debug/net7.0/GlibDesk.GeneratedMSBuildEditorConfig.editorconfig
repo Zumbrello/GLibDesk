@@ -13,13 +13,16 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GlibDesk
-build_property.ProjectDir = E:\RiderProj\GlibDesk\GlibDesk\
+build_property.ProjectDir = C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\
 
-[E:/RiderProj/GlibDesk/GlibDesk/App.axaml]
+[C:/Users/Zumbrello/Downloads/Telegram Desktop/GLibDesk-main/GlibDesk/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[E:/RiderProj/GlibDesk/GlibDesk/MainWindow.axaml]
+[C:/Users/Zumbrello/Downloads/Telegram Desktop/GLibDesk-main/GlibDesk/AutorizationPage.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[E:/RiderProj/GlibDesk/GlibDesk/Menu.axaml]
+[C:/Users/Zumbrello/Downloads/Telegram Desktop/GLibDesk-main/GlibDesk/MainWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Zumbrello/Downloads/Telegram Desktop/GLibDesk-main/GlibDesk/Menu.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
