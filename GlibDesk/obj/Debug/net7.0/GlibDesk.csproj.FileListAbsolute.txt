@@ -1,0 +1,626 @@
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/GlibDesk.exe
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/GlibDesk.deps.json
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/GlibDesk.runtimeconfig.json
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/GlibDesk.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/GlibDesk.pdb
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Avalonia.Base.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Avalonia.Controls.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Avalonia.DesignerSupport.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Avalonia.Dialogs.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Avalonia.Markup.Xaml.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Avalonia.Markup.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Avalonia.Metal.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Avalonia.MicroCom.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Avalonia.OpenGL.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Avalonia.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Avalonia.Controls.ColorPicker.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Avalonia.Controls.DataGrid.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Avalonia.Desktop.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Avalonia.Diagnostics.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Avalonia.Fonts.Inter.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Avalonia.FreeDesktop.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Avalonia.Native.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Avalonia.Remote.Protocol.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Avalonia.Skia.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Avalonia.Themes.Fluent.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Avalonia.Themes.Simple.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Avalonia.Win32.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Avalonia.X11.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/HarfBuzzSharp.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/MicroCom.Runtime.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Microsoft.CodeAnalysis.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Microsoft.CodeAnalysis.Scripting.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/SkiaSharp.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/System.Drawing.Common.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Tmds.DBus.Protocol.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/runtimes/win-arm64/native/av_libglesv2.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/runtimes/win-x64/native/av_libglesv2.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/runtimes/win-x86/native/av_libglesv2.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/runtimes/osx/native/libAvaloniaNative.dylib
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/runtimes/linux-arm/native/libSkiaSharp.so
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/runtimes/linux-arm64/native/libSkiaSharp.so
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/runtimes/linux-x64/native/libSkiaSharp.so
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/runtimes/osx/native/libSkiaSharp.dylib
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/runtimes/win-arm64/native/libSkiaSharp.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/runtimes/win-x64/native/libSkiaSharp.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/runtimes/win-x86/native/libSkiaSharp.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+E:/RiderProj/GlibDesk/GlibDesk/obj/Debug/net7.0/GlibDesk.csproj.AssemblyReference.cache
+E:/RiderProj/GlibDesk/GlibDesk/obj/Debug/net7.0/Avalonia/Resources.Inputs.cache
+E:/RiderProj/GlibDesk/GlibDesk/obj/Debug/net7.0/Avalonia/resources
+E:/RiderProj/GlibDesk/GlibDesk/obj/Debug/net7.0/GlibDesk.GeneratedMSBuildEditorConfig.editorconfig
+E:/RiderProj/GlibDesk/GlibDesk/obj/Debug/net7.0/GlibDesk.AssemblyInfoInputs.cache
+E:/RiderProj/GlibDesk/GlibDesk/obj/Debug/net7.0/GlibDesk.AssemblyInfo.cs
+E:/RiderProj/GlibDesk/GlibDesk/obj/Debug/net7.0/GlibDesk.csproj.CoreCompileInputs.cache
+E:/RiderProj/GlibDesk/GlibDesk/obj/Debug/net7.0/Avalonia/references
+E:/RiderProj/GlibDesk/GlibDesk/obj/Debug/net7.0/Avalonia/original.dll
+E:/RiderProj/GlibDesk/GlibDesk/obj/Debug/net7.0/Avalonia/original.pdb
+E:/RiderProj/GlibDesk/GlibDesk/obj/Debug/net7.0/Avalonia/original.ref.dll
+E:/RiderProj/GlibDesk/GlibDesk/obj/Debug/net7.0/refint/GlibDesk.dll
+E:/RiderProj/GlibDesk/GlibDesk/obj/Debug/net7.0/GlibDesk.dll
+E:/RiderProj/GlibDesk/GlibDesk/obj/Debug/net7.0/GlibDesk.pdb
+E:/RiderProj/GlibDesk/GlibDesk/obj/Debug/net7.0/GlibDesk.csproj.CopyComplete
+E:/RiderProj/GlibDesk/GlibDesk/obj/Debug/net7.0/GlibDesk.genruntimeconfig.cache
+E:/RiderProj/GlibDesk/GlibDesk/obj/Debug/net7.0/ref/GlibDesk.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/BCrypt.Net.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Castle.Core.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Humanizer.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Proxies.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Microsoft.OpenApi.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Mono.TextTemplating.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Npgsql.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/System.CodeDom.dll
+E:/RiderProj/GlibDesk/GlibDesk/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/GlibDesk
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/GlibDesk.deps.json
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/GlibDesk.runtimeconfig.json
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/GlibDesk.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/GlibDesk.pdb
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Avalonia.Base.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Avalonia.Controls.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Avalonia.DesignerSupport.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Avalonia.Dialogs.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Avalonia.Markup.Xaml.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Avalonia.Markup.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Avalonia.Metal.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Avalonia.MicroCom.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Avalonia.OpenGL.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Avalonia.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Avalonia.Controls.ColorPicker.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Avalonia.Controls.DataGrid.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Avalonia.Desktop.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Avalonia.Diagnostics.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Avalonia.Fonts.Inter.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Avalonia.FreeDesktop.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Avalonia.Native.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Avalonia.Remote.Protocol.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Avalonia.Skia.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Avalonia.Themes.Fluent.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Avalonia.Themes.Simple.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Avalonia.Win32.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Avalonia.X11.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/BCrypt.Net.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Castle.Core.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/HarfBuzzSharp.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Humanizer.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/MicroCom.Runtime.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Microsoft.CodeAnalysis.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Microsoft.CodeAnalysis.Scripting.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Proxies.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Mono.TextTemplating.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Npgsql.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/SkiaSharp.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/System.CodeDom.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/System.Drawing.Common.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/Tmds.DBus.Protocol.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/runtimes/win-arm64/native/av_libglesv2.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/runtimes/win-x64/native/av_libglesv2.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/runtimes/win-x86/native/av_libglesv2.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/runtimes/osx/native/libAvaloniaNative.dylib
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/runtimes/linux-arm/native/libSkiaSharp.so
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/runtimes/linux-x64/native/libSkiaSharp.so
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/runtimes/osx/native/libSkiaSharp.dylib
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/runtimes/win-x64/native/libSkiaSharp.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/runtimes/win-x86/native/libSkiaSharp.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/obj/Debug/net7.0/GlibDesk.csproj.AssemblyReference.cache
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/obj/Debug/net7.0/Avalonia/Resources.Inputs.cache
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/obj/Debug/net7.0/Avalonia/resources
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/obj/Debug/net7.0/GlibDesk.GeneratedMSBuildEditorConfig.editorconfig
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/obj/Debug/net7.0/GlibDesk.AssemblyInfoInputs.cache
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/obj/Debug/net7.0/GlibDesk.AssemblyInfo.cs
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/obj/Debug/net7.0/GlibDesk.csproj.CoreCompileInputs.cache
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/obj/Debug/net7.0/Avalonia/references
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/obj/Debug/net7.0/Avalonia/original.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/obj/Debug/net7.0/Avalonia/original.pdb
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/obj/Debug/net7.0/Avalonia/original.ref.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/obj/Debug/net7.0/refint/GlibDesk.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/obj/Debug/net7.0/GlibDesk.dll
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/obj/Debug/net7.0/GlibDesk.pdb
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/obj/Debug/net7.0/GlibDesk.csproj.CopyComplete
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/obj/Debug/net7.0/GlibDesk.genruntimeconfig.cache
+/home/sofya/Рабочий стол/GLibDesk-main/GlibDesk/obj/Debug/net7.0/ref/GlibDesk.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\obj\Debug\net7.0\GlibDesk.csproj.AssemblyReference.cache
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\obj\Debug\net7.0\Avalonia\Resources.Inputs.cache
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\obj\Debug\net7.0\Avalonia\resources
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\obj\Debug\net7.0\GlibDesk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\obj\Debug\net7.0\GlibDesk.AssemblyInfoInputs.cache
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\obj\Debug\net7.0\GlibDesk.AssemblyInfo.cs
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\obj\Debug\net7.0\GlibDesk.csproj.CoreCompileInputs.cache
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\GlibDesk.exe
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\GlibDesk.deps.json
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\GlibDesk.runtimeconfig.json
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\GlibDesk.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\GlibDesk.pdb
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.Base.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.Controls.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.DesignerSupport.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.Dialogs.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.Markup.Xaml.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.Markup.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.Metal.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.MicroCom.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.OpenGL.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.Controls.DataGrid.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.Desktop.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.Diagnostics.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.Fonts.Inter.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.FreeDesktop.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.Native.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.Remote.Protocol.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.Skia.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.Themes.Fluent.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.Themes.Simple.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.Win32.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.X11.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\BCrypt.Net.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\HarfBuzzSharp.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\MicroCom.Runtime.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\SkiaSharp.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Tmds.DBus.Protocol.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\obj\Debug\net7.0\Avalonia\references
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\obj\Debug\net7.0\Avalonia\original.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\obj\Debug\net7.0\Avalonia\original.pdb
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\obj\Debug\net7.0\Avalonia\original.ref.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\obj\Debug\net7.0\refint\GlibDesk.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\obj\Debug\net7.0\GlibDesk.dll
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\obj\Debug\net7.0\GlibDesk.pdb
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\obj\Debug\net7.0\GlibDesk.csproj.CopyComplete
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\obj\Debug\net7.0\GlibDesk.genruntimeconfig.cache
+C:\Users\Zumbrello\Downloads\Telegram Desktop\GLibDesk-main\GlibDesk\obj\Debug\net7.0\ref\GlibDesk.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\GlibDesk.exe
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\GlibDesk.deps.json
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\GlibDesk.runtimeconfig.json
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\GlibDesk.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\GlibDesk.pdb
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.Base.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.Controls.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.DesignerSupport.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.Dialogs.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.Markup.Xaml.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.Markup.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.Metal.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.MicroCom.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.OpenGL.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.Controls.DataGrid.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.Desktop.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.Diagnostics.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.Fonts.Inter.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.FreeDesktop.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.Native.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.Remote.Protocol.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.Skia.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.Themes.Fluent.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.Themes.Simple.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.Win32.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Avalonia.X11.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\BCrypt.Net.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\HarfBuzzSharp.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\MicroCom.Runtime.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\SkiaSharp.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\Tmds.DBus.Protocol.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\obj\Debug\net7.0\GlibDesk.csproj.AssemblyReference.cache
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\obj\Debug\net7.0\Avalonia\Resources.Inputs.cache
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\obj\Debug\net7.0\Avalonia\resources
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\obj\Debug\net7.0\GlibDesk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\obj\Debug\net7.0\GlibDesk.AssemblyInfoInputs.cache
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\obj\Debug\net7.0\GlibDesk.AssemblyInfo.cs
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\obj\Debug\net7.0\GlibDesk.csproj.CoreCompileInputs.cache
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\obj\Debug\net7.0\Avalonia\references
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\obj\Debug\net7.0\Avalonia\original.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\obj\Debug\net7.0\Avalonia\original.pdb
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\obj\Debug\net7.0\Avalonia\original.ref.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\obj\Debug\net7.0\refint\GlibDesk.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\obj\Debug\net7.0\GlibDesk.dll
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\obj\Debug\net7.0\GlibDesk.pdb
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\obj\Debug\net7.0\GlibDesk.csproj.CopyComplete
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\obj\Debug\net7.0\GlibDesk.genruntimeconfig.cache
+C:\Users\Zumbrello\Downloads\GLibDesk-main\GlibDesk\obj\Debug\net7.0\ref\GlibDesk.dll
